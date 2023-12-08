@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Kentucky-State-Roleplay.
-- 👀 I’m interested in ... Fivem servers.
-- 🌱 I’m currently learning ... Come join KSRP we will teach u,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
 Kentucky State Roleplay | FIVEM 
 
 POLICE:police_car: AND EMS :hospital:NEEDED! Contact for for info. 
@@ -35,4 +28,7 @@ At Kentucky State Roleplay we pride ourselves in quality, content and profession
 We can't wait to meet you and welcome you to our outstanding community! Step up to Kentucky State Roleplay today!
 
 Discord: https://discord.gg/VuWzBbzD
+
+<!---
+
 --->
